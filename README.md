@@ -1,3 +1,9 @@
+# ZAHRA
+installer les packages suivants :
+[exceljs](https://www.npmjs.com/package/exceljs) `yarn add exceljs`
+[file saver](https://www.npmjs.com/package/file-saver) `yarn add file-saver`
+[types / file saver](https://www.npmjs.com/package/file-saver) `npm i --save-dev @types/file-saver`
+
 # LabExcel
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.1.
