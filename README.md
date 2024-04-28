@@ -1,8 +1,8 @@
 # ZAHRA
-installer les packages suivants :
-[exceljs](https://www.npmjs.com/package/exceljs) `yarn add exceljs`
-[file saver](https://www.npmjs.com/package/file-saver) `yarn add file-saver`
-[types / file saver](https://www.npmjs.com/package/file-saver) `npm i --save-dev @types/file-saver`
+installer les packages suivants :<br>
+[exceljs](https://www.npmjs.com/package/exceljs) `yarn add exceljs`<br>
+[file saver](https://www.npmjs.com/package/file-saver) `yarn add file-saver`<br>
+[types / file saver](https://www.npmjs.com/package/file-saver) `npm i --save-dev @types/file-saver`<br>
 
 # LabExcel
 
