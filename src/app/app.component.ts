@@ -8,6 +8,8 @@ import { GenerateExcelService } from './service/generate-excel.service';
 })
 export class AppComponent {
   title = 'lab-excel';
+  page:number=2
+  size:number=10
 
   
   constructor(private service:GenerateExcelService) { }
@@ -18,5 +20,8 @@ export class AppComponent {
       { Name: 'ATCHI Zeineb', Age: 24, City: 'missonier' },
     ]
     this.service.generateExcel(data, 'excelTest');
+  }
+  changePage(){
+    this.page=this.page+1
   }
 }
